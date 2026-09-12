@@ -10,10 +10,24 @@ Também sou cofundador da **Small Valley Development**, onde exploro o desenvolv
 
 ---
 
-## 📈 Atividade
+### 🐍 Contribuições
 
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=Foka4a&theme=dark&hide_border=true&background=00000000&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B&card_width=495" alt="GitHub Streak">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Foka4a/Foka4a/output/github-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Foka4a/Foka4a/output/github-snake.svg"
+    >
+    <img
+      width="100%"
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Foka4a/Foka4a/output/github-snake.svg"
+    >
+  </picture>
 </p>
 
 ---
